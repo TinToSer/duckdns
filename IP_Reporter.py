@@ -1,5 +1,5 @@
 #jay maa shaarde
-#Developed by TinToSer(https://)
+#Developed by TinToSer(https://github.com/TinToSer/)
 import requests
 import time
 import json
